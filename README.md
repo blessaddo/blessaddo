@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @blessaddo
+- # 👋 Hi, I’m @blessaddo
+  
 - 👀 I’m interested in Data Analytics.
 - 🌱 I’m currently learning statistic with computer science.
 - 💞️ I’m looking to collaborate on Various topics of Data Manipulation.
