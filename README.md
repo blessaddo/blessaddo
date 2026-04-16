@@ -10,16 +10,16 @@ Welcome to my GitHub profile! I am an aspiring **Data Analyst** passionate about
 
 - 🔍 **Curious Explorer**: I enjoy diving deep into datasets and uncovering hidden patterns.
 - 📊 **Skillset**: Proficient in data analysis, visualization, and statistical modeling.
-- 🎓 **Education**: [Your degree and institution, e.g., B.Sc. in Statistics from XYZ University].
+- 🎓 **Education**:  B.Sc. in Statistics from University Of Ghana.
 - 🌟 **Goal**: To contribute to data-driven solutions and expand my expertise in analytics.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL, R
-- **Data Visualization**: Tableau, Power BI, Excel
-- **Databases**: MySQL, PostgreSQL
+- **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL
+- **Data Visualization**:Power BI, Excel
+- **Databases**:PostgreSQL, Snowflake
 - **Machine Learning**: Basic supervised and unsupervised learning
 - **Others**: Git, Jupyter Notebooks, Google Sheets
 
