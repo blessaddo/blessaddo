@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am an aspiring **Data Analyst** passionate about
 
 - 🔍 **Curious Explorer**: I enjoy diving deep into datasets and uncovering hidden patterns.
 - 📊 **Skillset**: Proficient in data analysis, visualization, and statistical modeling.
-- 🎓 **Education**:  B.Sc. in Statistics from University Of Ghana.
+- 🎓 **Education**:  B.Sc. in Statistics and Computer Science from University of Ghana.
 - 🌟 **Goal**: To contribute to data-driven solutions and expand my expertise in analytics.
 
 ---
